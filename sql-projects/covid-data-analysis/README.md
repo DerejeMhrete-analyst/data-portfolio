@@ -1,21 +1,27 @@
-# 🦠 COVID-19 Data Analysis – SQL + Tableau
+# 🦠 COVID-19 Data Exploration & Visualization (SQL + Tableau)
 
-## 📌 Reason
-To explore historical COVID-19 data using SQL for cleaning and Tableau for visualization.
+## 📌 Project Overview
+This project explores global COVID-19 data using SQL and visualizes key metrics in Tableau.  
+It demonstrates the ability to clean, aggregate, and extract insights from large, messy datasets — a core skill for analytical decision-making.
 
-## 🧠 What I Learned
-- SQL joins, CTEs, window and aggregate functions
-- Data extraction and transformation for BI tools
-- Dashboard creation in Tableau
+## 🎯 Objective
+To analyze pandemic trends and uncover relationships between infection rates, testing levels, and mortality across different countries.
 
-## ⚙️ What I Applied
-- Worked with 85,000+ records of COVID-19 data
-- Cleaned and standardized columns for reporting
-- Created views and temporary tables for exploration
+## 🧰 Tools & Techniques
+- SQL (CTEs, Joins, Temp Tables, Window Functions, Aggregations)
+- Data cleaning and transformation
+- Tableau for dashboard visualization
 
-## 🔍 What I Discovered
-COVID-19 infection peaks vary significantly by region and correlate with vaccination rates and policy strictness.
+## 🧠 What I Did
+- Queried over **85,000 records** from a COVID-19 database  
+- Standardized data types and handled missing entries  
+- Created views for infection rates, death ratios, and testing coverage  
+- Built a Tableau dashboard with interactive trend lines and filters
 
-## 📈 Outcome
-Built an interactive Tableau dashboard visualizing trends by country, date, and case severity.
+## 📈 Insights
+- High-testing countries maintained significantly lower death-to-case ratios.  
+- Infection peaks corresponded strongly with policy relaxation periods.  
+- Regional comparison revealed temporal lag between outbreaks across continents.
 
+## 🚀 Outcome
+Delivered a full SQL-to-dashboard pipeline, showcasing the ability to turn raw data into meaningful, interactive business insights.
