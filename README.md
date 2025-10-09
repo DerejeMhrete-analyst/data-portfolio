@@ -1,121 +1,68 @@
-# 👋 Hi, I'm Dereje Mhrete  
-### Data & Business Analyst | Process Optimization | Data Visualization
+# 📈 Data Analytics & Business Intelligence Portfolio
 
-📍 Based in Leipzig, Germany  
-🎓 M.Sc. in Business & Engineering | 3+ years of hands-on analytics and data-driven problem solving  
+Welcome to my **Data Analytics Portfolio**, showcasing hands-on projects that combine **engineering precision**, **business acumen**, and **data storytelling**.  
+I hold an **Engineering degree** and an **MBA from Germany**, where I focused on **data-driven process optimization** and **decision intelligence** for small and medium enterprises (SMEs).
 
----
-
-## 🧭 About Me  
-I'm a data and business analyst passionate about turning real-world business operations into actionable insights.  
-With a background in **engineering** and an MBA focus on **data-driven decision-making**, I enjoy combining analytical rigor with storytelling to help organizations improve efficiency and performance.
-
-I work with data across multiple tools — from **Excel dashboards** to **Python automation**, **SQL data cleaning**, and **Power BI storytelling dashboards**.
+Each project below reflects a structured approach:
+1. A clear business or analytical **goal**
+2. A thoughtful **data workflow**
+3. **Insights or automation** that drive measurable value
 
 ---
 
-## 🧩 Featured Projects
-
-### 🧠 Excel & Power BI Projects
-
-#### 1️⃣ Bike Sales Dashboard (Excel)
-- Cleaned and analyzed **1,000+ entries** of customer data using Excel functions (`TEXT TO COLUMNS`, `MATCH`, `REPLACE`).
-- Built interactive **pivot tables** and **slicers** to explore relationships between income, age, distance, and purchase amount.
-- 🎯 **Outcome:** Identified key demographic insights to optimize customer segmentation.  
-**Tools:** Excel, Pivot Charts, Slicers  
+## 🧮 Excel Projects
+| Project | Description | Highlights |
+|----------|--------------|-------------|
+| [🚴 **Bike Sales Dashboard**](./excel-projects/bike-sales-dashboard/README.md) | Cleaned and analyzed 1,000+ customer records to understand sales drivers. Built a dynamic dashboard linking income, distance, and demographics. | PivotTables, Slicers, Interactive Visualization |
+| [☕ **Coffee Sales Dashboard**](./excel-projects/coffee-sales-dashboard/README.md) | Created a multi-sheet dashboard summarizing 1,000+ transactions. Used Excel formulas and automation to track top customers and sales trends. | INDEX/MATCH, Lookup Functions, Timelines |
 
 ---
 
-#### 2️⃣ Coffee Sales Interactive Dashboard (Excel)
-- Integrated data across **3 worksheets** with `INDEX MATCH` and `LOOKUP` functions.  
-- Designed a dynamic dashboard featuring timelines, slicers, and top buyer tracking.  
-- 🎯 **Outcome:** Enabled automatic tracking of sales trends and top-performing countries.  
-**Tools:** Excel  
+## 🐍 Python Projects
+| Project | Description | Highlights |
+|----------|--------------|-------------|
+| [🎬 **Movie Correlation Analysis**](./python-projects/movie-correlation-analysis/README.md) | Explored correlations between film budgets, ratings, and gross revenue using data from 7,000+ records. | Pandas, Matplotlib, Correlation Matrix |
+| [🛒 **Amazon Price Tracker**](./python-projects/amazon-price-tracker/README.md) | Built a Python scraper to track product prices and send real-time alerts on price drops. | BeautifulSoup, Requests, Automation |
+| [💼 **Stepstone Job Scraper**](./python-projects/stepstone-job-scraper/README.md) | Extracted 1,200+ job listings with details like salary, location, and required skills — including cookie handling and pagination. | Selenium, Data Cleaning, CSV Export |
+| [🧠 **Process Optimization Tool**](./python-projects/process-optimization-tool/README.md) | Developed a Tkinter-based application that visualizes operational inefficiencies from video data — tested with a real SME case study. | Tkinter, Matplotlib, SQLite, Seaborn |
 
 ---
 
-#### 3️⃣ Power BI Survey Dashboard
-- Cleaned and visualized **600+ survey responses** covering job roles, skills, and satisfaction.  
-- Designed an **interactive Power BI dashboard** with DAX measures and slicers.  
-- 🎯 **Outcome:** Discovered trends linking job satisfaction and work-life balance among data professionals.  
-**Tools:** Power BI, Excel  
+## 🗃️ SQL Projects
+| Project | Description | Highlights |
+|----------|--------------|-------------|
+| [🦠 **COVID-19 Data Exploration**](./sql-projects/covid-data-analysis/README.md) | Analyzed 85K COVID-19 records using advanced SQL (CTEs, temp tables, window functions), visualized results in Tableau. | Data Cleaning, Aggregation, Tableau |
+| [🏘️ **Nashville Housing Data Cleaning**](./sql-projects/nashville-housing-cleaning/README.md) | Standardized and cleaned 55K housing entries to prepare for visualization and market insight generation. | Data Normalization, Deduplication, SQL Joins |
 
 ---
 
-### 🐍 Python Data Projects
-
-#### 4️⃣ Movie Industry Correlation Analysis
-- Explored **7,000+ movie data entries** to study relationships between budget, gross earnings, and audience ratings.  
-- Used **Pandas, Matplotlib**, and correlation matrices for exploratory analysis.  
-- 🎯 **Outcome:** Found strong correlation between marketing budget and revenue growth.  
-**Tools:** Python, Pandas, Matplotlib  
+## 📊 Power BI Projects
+| Project | Description | Highlights |
+|----------|--------------|-------------|
+| [🧭 **Survey Data Dashboard**](./powerbi-projects/survey-dashboard/README.md) | Created an interactive Power BI dashboard summarizing insights from 600+ survey responses about programming languages and job satisfaction. | Power Query, DAX, KPI Cards, Gauges |
 
 ---
 
-#### 5️⃣ Amazon Price Tracker
-- Built a **web scraper** to monitor product prices and send alerts when prices dropped.  
-- 🎯 **Outcome:** Learned real-time data collection and automation using BeautifulSoup and Requests.  
-**Tools:** Python, BeautifulSoup, Requests  
+## 🧩 Core Competencies
+**Languages:** Python, SQL, DAX  
+**Tools:** Excel, Power BI, Tableau, Jupyter Notebook  
+**Libraries:** Pandas, Matplotlib, Seaborn, BeautifulSoup, Tkinter  
+**Concepts:** Data Cleaning, Dashboard Design, Process Automation, EDA, Business Storytelling, Web Scraping
 
 ---
 
-#### 6️⃣ Stepstone Job Scraper  
-- Scraped **1,200+ job listings** including company, title, salary, and skills using Selenium and cookies authentication.  
-- 🎯 **Outcome:** Created a dataset for job trend and salary pattern analysis in Germany.  
-**Tools:** Python, Selenium, BeautifulSoup, Pandas  
+## 🎓 Background
+I’m an **Engineer and MBA graduate from Leipzig, Germany**, passionate about bridging **technical analytics** with **business strategy**.  
+My master’s thesis — *“Developing a Digital Tool for Non-Standardized Processes in SMEs”* — involved designing a video-based visualization tool that improved efficiency and decision-making in Ethiopian SMEs.
 
 ---
 
-### 🧮 SQL Projects
-
-#### 7️⃣ COVID-19 Data Exploration (SQL + Tableau)
-- Queried and cleaned **85,000+ records** using joins, CTEs, temp tables, and window functions.  
-- 🎯 **Outcome:** Created visual dashboards showing infection trends and mortality analysis.  
-**Tools:** MySQL, Tableau  
+## 📬 Let’s Connect
+**📧 Email:** mhretedereje@gmail.com 
+**🌐 LinkedIn:** [linkedin.com/in/yourprofile]  
+**🐙 GitHub:** [github.com/yourusername]
 
 ---
 
-#### 8️⃣ Nashville Housing Data Cleaning (SQL)
-- Processed **55,000+ housing records** to standardize formats, remove duplicates, and improve data integrity.  
-- 🎯 **Outcome:** Built a clean, reliable dataset ready for visualization and predictive analysis.  
-**Tools:** MySQL  
-
----
-
-### 🧰 Business Process Optimization Tool
-
-#### 9️⃣ Process Visualization & Optimization Tool (Python)
-- Developed a Tkinter-based app for **video-based process visualization** in SMEs.  
-- Generated **heatmaps, spaghetti plots, and Gantt charts** to reveal inefficiencies.  
-- 🎯 **Outcome:** Helped a small manufacturing firm reduce workflow bottlenecks by **15%**.  
-**Tools:** Python, Tkinter, Matplotlib, Seaborn, Pandas  
-
----
-
-## 🧠 Technical Skills
-
-| Category | Tools |
-|-----------|-------|
-| **Data Visualization** | Power BI, Tableau, Excel, Matplotlib, Seaborn |
-| **Programming & Automation** | Python, Pandas, NumPy, Tkinter, Selenium |
-| **Database Management** | SQL, MySQL, SQLite |
-| **Data Storytelling** | Data Cleaning, Interactive Dashboards, KPI Design |
-| **Soft Skills** | Analytical Thinking, Problem Solving, Business Storytelling |
-
----
-
-## 🌱 Current Focus
-- Building **data-driven storytelling projects** with Python & Power BI  
-- Exploring **process analytics and optimization in SMEs**  
-- Advancing toward **C1 German proficiency** 🇩🇪  
-
----
-
-## 📬 Get in Touch
-📧 mhretedereje@gmail.com  
-🔗 [LinkedIn Profile](#)  
-💼 [Portfolio Website / GitHub](#)
-
----
-
-⭐ _“Data without story is noise — I turn numbers into narratives that drive decisions.”_
+> “Numbers by themselves don’t persuade — insights do.  
+> I transform data into clear, actionable stories that drive smarter business decisions.”
