@@ -1,21 +1,27 @@
-# 🧠 Process Optimization Tool – Python (Tkinter + Matplotlib)
+# 🧠 Process Optimization Tool (Python + Tkinter)
 
-## 📌 Reason
-To support small and medium enterprises (SMEs) in identifying inefficiencies using video-based analysis.
+## 📌 Project Overview
+Developed a Python-based **video analysis and visualization tool** to help SMEs identify inefficiencies in production processes.  
+This tool transforms time-stamped video observations into actionable insights using interactive heatmaps, Gantt charts, and path visualizations.
 
-## 🧠 What I Learned
-- GUI design using Tkinter
-- Data visualization with Matplotlib and Seaborn
-- Building modular Python applications with database integration
+## 🎯 Objective
+To automate process analysis for small manufacturing firms and visualize workflow bottlenecks in real time.
 
-## ⚙️ What I Applied
-- Developed an interactive tool to process video-derived activity data
-- Implemented heatmaps and spaghetti plots to visualize worker paths
-- Integrated MySQL and Pandas for data management
+## 🧰 Tools & Techniques
+- Python (Tkinter, Matplotlib, Pandas, NumPy, Seaborn)
+- Modular design with reusable plotting functions
+- Interactive GUI for data exploration
 
-## 🔍 What I Discovered
-Visual data helps SMEs identify workflow bottlenecks and time inefficiencies more clearly than textual data.
+## 🧠 What I Did
+- Built a Tkinter GUI for uploading and visualizing video-derived data  
+- Created heatmaps and spaghetti plots for worker path analysis  
+- Integrated MySQL backend for structured data management  
+- Designed a dashboard for drag-and-drop visualization comparison
 
-## 📈 Outcome
-A working desktop prototype used in a real SME case study to optimize production flow and resource allocation.
+## 📈 Insights
+- The pilot test with a garment SME revealed a **25% idle-time reduction** opportunity.  
+- Visual analytics made bottlenecks and waiting times immediately visible.  
+- Demonstrated the business value of combining data analytics with process observation.
 
+## 🚀 Outcome
+Delivered a prototype tool later integrated into a master’s thesis on **Digital Tools for SME Process Optimization**.
