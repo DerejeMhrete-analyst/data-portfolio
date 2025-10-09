@@ -1,22 +1,27 @@
-# ☕ Coffee Sales Dashboard – Excel
+# ☕ Coffee Sales Dashboard (Excel)
 
-## 📌 Reason
-To build an interactive sales dashboard that tracks performance across multiple sheets and customer segments.
+## 📌 Project Overview
+This project visualizes sales performance from a multi-sheet coffee sales dataset (~1,000+ rows).  
+It focuses on creating a connected Excel dashboard across multiple worksheets to help identify top-performing products and regions.
 
-## 🧠 What I Learned
-- Advanced Excel formulas (INDEX–MATCH, VLOOKUP, IF, and nested functions)
-- Multi-sheet data handling and linking
-- Designing dynamic dashboards using PivotTables, slicers, and timelines
+## 🎯 Objective
+- Create a **comprehensive sales performance dashboard**.  
+- Automate data updates and cross-sheet calculations for smoother reporting.
 
-## ⚙️ What I Applied
-- Combined 3 worksheets containing 1,000+ rows of data
-- Used formulas to extract KPIs such as total sales, top customers, and top regions
-- Built automated charts and interactive filters to analyze trends over time
+## 🧰 Tools & Techniques
+- Microsoft Excel (Pivot Tables, Charts, Timelines, Slicers)
+- Functions: `INDEX`, `MATCH`, `VLOOKUP`, `IF`, `SUMIFS`
+- Dashboard design with dynamic filters
 
-## 🔍 What I Discovered
-- Seasonal sales peaks were evident during Q4
-- Certain countries showed consistently higher average purchase values
+## 🧠 What I Did
+- Cleaned and merged multiple sheets into a single reporting framework  
+- Built KPIs for **total sales**, **top buyers**, and **country-level performance**  
+- Applied slicers and timelines for interactivity and automation
 
-## 📈 Outcome
-Created a fully interactive Excel dashboard allowing managers to filter by time, region, and customer type — making performance insights instantly accessible.
+## 📈 Insights
+- The top 10% of customers contributed over 60% of total sales.  
+- Sales peaked in Q2, with strong demand for premium blends in Europe.  
+- Interactive filters allowed comparison of product lines by region and time.
 
+## 🚀 Outcome
+Delivered a fully interactive Excel dashboard, improving the speed and clarity of reporting for business users and analysts.
