@@ -1,21 +1,26 @@
-# 💼 Stepstone Job Scraper – Python + Selenium
+# 💼 StepStone Job Scraper (Python + Selenium)
 
-## 📌 Reason
-To collect job market data for Data Analyst positions in Germany and analyze demand trends.
+## 📌 Project Overview
+Built a robust web scraper to extract job listings from StepStone.de, including job title, company, location, salary, and remote options.  
+The project collected over **1,200 job postings** for deeper analysis of demand in the data and business analytics job market.
 
-## 🧠 What I Learned
-- Browser automation with Selenium
-- Managing cookies, sessions, and pagination in large-scale scraping
-- Handling invalid sessions and runtime exceptions
+## 🎯 Objective
+To gather real-world labor market data for trend analysis and skill demand visualization.
 
-## ⚙️ What I Applied
-- Scraped 1,200+ job listings (title, company, location, salary, and more)
-- Stored results in CSV for later analysis in Excel and Power BI
-- Implemented error handling for invalid session and navigation failures
+## 🧰 Tools & Techniques
+- Python (Selenium, BeautifulSoup, Pandas)
+- Web automation and data extraction
+- CSV data export for further Power BI analysis
 
-## 🔍 What I Discovered
-Data Analyst roles in Germany show high demand in cities like Munich, Berlin, and Leipzig, with average salary ranges between €55k–€75k.
+## 🧠 What I Did
+- Automated multi-page navigation and login sessions to access restricted salary data  
+- Parsed structured job details and stored them in CSV format  
+- Combined with Power BI for skill frequency and salary trend visualization
 
-## 📈 Outcome
-Created a robust scraper capable of generating structured datasets from real-world job platforms.
+## 📈 Insights
+- Most Data Analyst roles in Germany listed **Python, SQL, and Power BI** as top skills.  
+- 40% of positions offered **remote or hybrid options**.  
+- Salary range averaged **€55K–€75K**, depending on experience and sector.
 
+## 🚀 Outcome
+Generated a comprehensive dataset later used in Power BI to visualize **skill trends and job distributions** across German cities.
