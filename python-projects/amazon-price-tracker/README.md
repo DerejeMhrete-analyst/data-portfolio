@@ -1,22 +1,26 @@
-# 🛒 Amazon Price Tracker – Python Web Scraping
+# 🛒 Amazon Price Tracker (Web Scraping with Python)
 
-## 📌 Reason
-To gain hands-on experience collecting real-world data and automating price monitoring.
+## 📌 Project Overview
+This project demonstrates the use of web scraping to collect **real-time product pricing** from Amazon.  
+It automatically tracks price changes and sends alerts when the price drops below a set threshold.
 
-## 🧠 What I Learned
-- Web scraping using `requests` and `BeautifulSoup`
-- Data parsing, cleaning, and structuring for analysis
-- Automating alerts with email notifications
+## 🎯 Objective
+To automate data collection and monitoring for e-commerce analytics.
 
-## ⚙️ What I Applied
-- Scraped product titles and prices from Amazon pages
-- Set up an automated alert when prices dropped below a threshold
-- Handled HTML structures and user-agent headers to avoid blocking
+## 🧰 Tools & Techniques
+- Python (Requests, BeautifulSoup, smtplib)
+- Data parsing and cleaning
+- Automated email notification system
 
-## 🔍 What I Discovered
-- Product pricing on Amazon fluctuates more frequently than expected
-- Real-world data is highly inconsistent and requires cleaning
+## 🧠 What I Did
+- Scraped product names, prices, and availability from Amazon product pages  
+- Cleaned and stored results in CSV for further analysis  
+- Developed a Python script that sends an email alert when a price changes
 
-## 📈 Outcome
-Developed a reusable scraper for e-commerce data collection and price tracking.
+## 📈 Insights
+- Showcased the power of web scraping for **real-time data pipelines**.  
+- Highlighted the variability of e-commerce prices over time.  
+- Built a practical automation use case for price monitoring.
 
+## 🚀 Outcome
+Created a functioning Python tool that continuously collects and tracks live Amazon product data for analytical and practical business use.
