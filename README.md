@@ -60,7 +60,7 @@ My master’s thesis — *“Developing a Digital Tool for Non-Standardized Proc
 ## 📬 Let’s Connect
 **📧 Email:** mhretedereje@gmail.com 
 **🌐 LinkedIn:** [linkedin.com/in/yourprofile]  
-**🐙 GitHub:** [github.com/yourusername]
+**🐙 GitHub:** [github.com/DerejeMhrete-analyst]
 
 ---
 
